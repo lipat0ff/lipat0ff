@@ -22,10 +22,4 @@ I'm **Alexander**, a beginner programmer passionate about learning new technolog
 - 💻 Beginner Software Developer
 - 📚 Always learning something new
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lipat0ff&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
-
 </div>
